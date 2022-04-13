@@ -1,5 +1,12 @@
 # Bootstrap 4 Project
 
-This is an example of a webpage styled using Bootstrap.  
+This is an example of fictional theatre webpage styled using Bootstrap.  
 
-* Academy Cinemas
+## Academy Cinemas
+
+The webpage displays:
+* On-page links 
+* Modals 
+* Buttons
+* Pop Up Messages
+* Images
